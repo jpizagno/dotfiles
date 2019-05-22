@@ -2,10 +2,6 @@
 
 This repository will contain setup scripts, hidden-.dot files, aliases, etc.. that are used to setup an environment
 
-TODO:
+## Ubuntu 
 
-Install Ubuntu aliases
-Install zsh
-Install terrraform
-Install "z"
-Install AWS setup
+run the setup.sh script to install programs, and editors
