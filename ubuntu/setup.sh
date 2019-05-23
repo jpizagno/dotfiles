@@ -5,7 +5,6 @@ mkdir -p ~/.config
 mkdir -p ~/.z
 
 sudo apt update
-sudo apt upgrade
 
 sudo apt install bash-completion
 sudo apt install zsh
